@@ -57,6 +57,7 @@ export default function App() {
   );
 }
 
+// comment for test
 const styles = StyleSheet.create({
   cameraContainer: {
     flex: 1,
